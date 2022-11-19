@@ -7,7 +7,7 @@
   > - 2. Get your Mastodon Aceess Token (assuming you already have an appliacation with r/w access to account.)
   > - ![image](https://user-images.githubusercontent.com/66806528/202611800-2e952ade-2eb3-4704-8c17-c56c0431434d.png)
   > - 3. Put Access token in mastondonAccessToken.py file (this is in .gitignore so may have to create)
-  > - `$ echo "api_key = '$YOUR_ACCESS_TOKEN' "` >> mastodonAccessToken.py 
+  > - `$ echo "api_key = '$YOUR_ACCESS_TOKEN' " >> mastodonAccessToken.py` 
   
 #### On CLI:
  > - ***note: add your own photos to /photolib!***
