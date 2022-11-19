@@ -31,7 +31,7 @@ def main():
     auth = seceret.api_key
     randomPicture()
     # Specify mastodon instance | Access Token | profile content to update
-    url = "https://infosec.exchange/api/v1/accounts/update_credentials"
+    url = "https://mastodon.social/api/v1/accounts/update_credentials"
     header = "'Authorization: Bearer %s'" % auth 
     payload =  "header='@%s'" % file
     
